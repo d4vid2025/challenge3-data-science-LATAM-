@@ -117,8 +117,5 @@ El modelo logra un **accuracy del 79%**, con un buen balance entre precisión y 
 
 ---
 
-Si quieres, puedo generar una **versión aún más visual**, con los gráficos directamente embebidos en Markdown y listas más resumidas para que quede listo para un **reporte académico o presentación**.  
-
-¿Quieres que haga eso?
 ```
 
