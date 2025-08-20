@@ -1,6 +1,4 @@
-Perfecto, puedo armarte un informe completo en **Markdown** sobre tu trabajo de machine learning usando los datos de churn de clientes. Aquí tienes un ejemplo estructurado:
 
-````markdown
 # Informe de Análisis y Predicción de Churn de Clientes
 
 ## 1. Introducción
